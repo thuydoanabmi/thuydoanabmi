@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thuydoanabmi
-- 👀 I’m interested in Machine Learning/Deep Learning for Remote Sensing World
+- 👀 I’m interested in Machine Learning/Deep Learning in the Geospatial World
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me thuy.doan@ualberta.ca
 
